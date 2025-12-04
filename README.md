@@ -25,5 +25,7 @@ realizada em Juazeiro do Norte, CE, entre Agosto e Novembro de 2025.
 Este projeto também está disponível via **GitHub Pages**:  
 👉 [Acesse aqui](https://seuusuario.github.io/mudanca-radical/)
 
----
+
 © 2025 • Juazeiro do Norte, CE
+
+
