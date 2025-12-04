@@ -23,7 +23,7 @@ realizada em Juazeiro do Norte, CE, entre Agosto e Novembro de 2025.
 
 ## Visualizar online
 Este projeto também está disponível via **GitHub Pages**:  
-👉 [Acesse aqui](https://seuusuario.github.io/mudanca-radical/)
+👉 [Acesse aqui](https://saviosouza-dev.github.io/mudanca-radical/)
 
 
 © 2025 • Juazeiro do Norte, CE
